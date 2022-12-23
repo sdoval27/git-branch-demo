@@ -1,0 +1,1 @@
+var rock=1
